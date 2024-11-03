@@ -1,4 +1,4 @@
-## Blog Website - Shiva Yadav
+## Blog Website
 
 **Techstack used:**
 - Nextjs
